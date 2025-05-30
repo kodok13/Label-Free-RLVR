@@ -18,8 +18,6 @@ By [Qingyang Zhang](qingyangzhang.github.io) and Haitao Wu. If there are any pap
 
 [The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning](https://arxiv.org/abs/2505.15134), ArXiv, 2025-05-21
 
-Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
-
 [SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation](https://arxiv.org/abs/2505.16637), ArXiv, 2025-05-22
 
 [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590), ArXiv, 2025-05-26
@@ -27,6 +25,8 @@ Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
 [One-shot Entropy Minimization](https://arxiv.org/abs/2505.20282), ArXiv, 2025-05-26
 
 [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493), ArXiv, 2025-05-27
+
+Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
 
 ## RLRV with Limited Data
 
