@@ -2,7 +2,7 @@
 
 By [Qingyang Zhang](qingyangzhang.github.io) and Haitao Wu. If there are any papers I missed, please let me know!
 
-Warning: As shown by recent work, the improvement of most of Reinforcement Learning with Verifiable Reward (RLVR) papers could be a mirage due to various accidental issues in the evaluation setups. The baseline numbers of the pre-RL models may be massively underreported. Thus we should carefully examine the degree by which true learning happens.
+Warning: This repo is built for researchers interested in the recent "flurry" in RL field. Many new papers claim to improve the “reasoning abilities” in language models. However, as shown by [recent work](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37#2022f1fbf0ee80cb9b18f7eac460410a), the improvement of most of Reinforcement Learning with Verifiable Reward (RLVR) papers could be a mirage due to various accidental issues in the evaluation setups. The baseline numbers of the pre-RL models may be massively underreported. Thus we should carefully examine the degree by which true learning happens.
 
 ## Before DeepSeek-R1-Zero
 
