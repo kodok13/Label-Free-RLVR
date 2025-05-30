@@ -32,7 +32,7 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 
 [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493), ArXiv, 2025-05-27
 
-Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
+[Spurious Rewards: Rethinking Training Signals in RLVR](https://github.com/ruixin31/Rethink_RLVR/tree/main?tab=readme-ov-file), Blog, 2025-05-27
 
 [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660), ArXiv, 2025-05-28
 
