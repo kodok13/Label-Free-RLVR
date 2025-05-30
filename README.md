@@ -1,4 +1,4 @@
-# A Collection of Label-free Reinforcement Learning Papers
+# Awesome Label-free Reinforcement Learning Papers
 
 By [Qingyang Zhang](qingyangzhang.github.io) and Haitao Wu. If there are any papers I missed, please let me know!
 
