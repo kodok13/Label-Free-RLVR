@@ -28,6 +28,8 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 
 [One-shot Entropy Minimization](https://arxiv.org/abs/2505.20282), ArXiv, 2025-05-26
 
+[Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers](https://arxiv.org/abs/2505.19439), ArXiv, 2025-05-26
+
 [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493), ArXiv, 2025-05-27
 
 Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
