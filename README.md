@@ -28,6 +28,8 @@ By [Qingyang Zhang](qingyangzhang.github.io) and Haitao Wu. If there are any pap
 
 Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
 
+[Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453v1), ArXiv, 2025-05-29
+
 ## RLRV with Limited Data
 
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571), ArXiv, 2025-04-29
