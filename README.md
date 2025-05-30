@@ -1,8 +1,8 @@
-# A Collection of Label-free Reinforcement Learning with Verifiable Rewards Papers
+# A Collection of Label-free Reinforcement Learning Papers
 
 By [Qingyang Zhang](qingyangzhang.github.io). If there are any papers I missed, please let me know!
 
-Warning: As shown by recent work, the improvement of most of RLVR papers could be a mirage due to various accidental issues in the evaluation setups. The baseline numbers of the pre-RL models may be massively underreported. Thus we should carefully examine the degree by which true learning happens.
+Warning: As shown by recent work, the improvement of most of Reinforcement Learning with Verifiable Reward (RLVR) papers could be a mirage due to various accidental issues in the evaluation setups. The baseline numbers of the pre-RL models may be massively underreported. Thus we should carefully examine the degree by which true learning happens.
 
 ## Before DeepSeek-R1-Zero
 
