@@ -38,7 +38,7 @@ Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
 
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571), ArXiv, 2025-04-29
 
-[Evolving LLMs’ Self-Refinement Capability via Iterative Preference Optimization], ArXiv, 2025-05-17
+[Evolving LLMs’ Self-Refinement Capability via Iterative Preference Optimization](https://arxiv.org/pdf/2502.05605), ArXiv, 2025-05-17
 
 [SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data](https://arxiv.org/abs/2505.20347), ArXiv, 2025-05-25
 
