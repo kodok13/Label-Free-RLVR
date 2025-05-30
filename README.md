@@ -6,9 +6,9 @@ Warning: As shown by recent work, the improvement of most of RLVR papers could b
 
 ## Before DeepSeek-R1-Zero
 
-[Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109), ArXiv, 2024-11
-
 [Preference Optimization for Reasoning with Pseudo Feedback](https://arxiv.org/abs/2411.16345), ArXiv, 2024-11, ICLR'25
+
+[Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109), ArXiv, 2024-11
 
 ## RLRV without Any Supervision
 
