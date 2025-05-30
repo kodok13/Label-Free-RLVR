@@ -10,7 +10,9 @@ Warning: As shown by recent work, the improvement of most of RLVR papers could b
 
 [Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109), ArXiv, 2024-11
 
-## RLRV without Any Supervision
+## RLVR without Any Supervision
+
+[Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613), ArXiv, 2025-02-26
 
 [Right question is already half the answer: Fully unsupervised LLM reasoning incentivization](https://arxiv.org/abs/2504.05812), ArXiv, 2024-04-08
 
@@ -36,7 +38,11 @@ Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
 
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571), ArXiv, 2025-04-29
 
+[Evolving LLMs’ Self-Refinement Capability via Iterative Preference Optimization], ArXiv, 2025-05-17
+
 [SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data](https://arxiv.org/abs/2505.20347), ArXiv, 2025-05-25
+
+[Sherlock: Self-Correcting Reasoning in Vision-Language Models](https://arxiv.org/pdf/2505.22651), ArXiv, 2025-05-28
 
 ## Blog
 
