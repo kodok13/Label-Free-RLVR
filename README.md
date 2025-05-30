@@ -2,6 +2,8 @@
 
 By [Qingyang Zhang](qingyangzhang.github.io) and Haitao Wu. If there are any papers I missed, please let me know!
 
+Warning: As shown by recent work, the improvement of most of RLVR papers could be a mirage due to various accidental issues in the evaluation setups (discussed below). As such, the baseline numbers of the pre-RL models are massively underreported. Thus we should carefully examine the degree by which true learning happens.
+
 ## Before DeepSeek-R1-Zero
 
 [Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109), ArXiv, 2024-11
