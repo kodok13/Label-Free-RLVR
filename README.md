@@ -10,7 +10,7 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 
 [Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109), ArXiv, 2024-11
 
-## RLVR without Any Supervision
+## RLVR without External Supervision
 
 [Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613), ArXiv, 2025-02-26
 
@@ -31,6 +31,8 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493), ArXiv, 2025-05-27
 
 Spurious Rewards: Rethinking Training Signals in RLVR, Blog, 2025-05-27
+
+[Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660), ArXiv, 2025-05-28
 
 [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453v1), ArXiv, 2025-05-29
 
