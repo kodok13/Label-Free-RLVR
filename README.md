@@ -14,8 +14,6 @@ If you find this repo helpful, please consider to **star🌟** this repo and [EM
 
 ## RLVR without External Supervision
 
-[Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613), ArXiv, 2025-02-26
-
 [Right question is already half the answer: Fully unsupervised LLM reasoning incentivization](https://arxiv.org/abs/2504.05812), ArXiv, 2024-04-08
 
 [Ttrl: Test-time reinforcement learning](https://arxiv.org/abs/2504.16084), ArXiv, 2024-04-22
@@ -40,7 +38,9 @@ If you find this repo helpful, please consider to **star🌟** this repo and [EM
 
 [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453v1), ArXiv, 2025-05-29
 
-## RLRV with Limited Data
+## RLVR with Limited Data
+
+[Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613), ArXiv, 2025-02-26
 
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571), ArXiv, 2025-04-29
 
