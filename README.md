@@ -42,6 +42,8 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571), ArXiv, 2025-04-29
 
+[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335), ArXiv, 2025-05-06
+
 [Evolving LLMs’ Self-Refinement Capability via Iterative Preference Optimization](https://arxiv.org/pdf/2502.05605), ArXiv, 2025-05-17
 
 [SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data](https://arxiv.org/abs/2505.20347), ArXiv, 2025-05-25
