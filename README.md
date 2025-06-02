@@ -8,7 +8,7 @@ If you find this repo helpful, please consider to **star🌟** this repo and [EM
 
 ## Before DeepSeek-R1-Zero
 
-[Preference Optimization for Reasoning with Pseudo Feedback](https://arxiv.org/abs/2411.16345), ArXiv, 2024-11, ICLR'25
+[Preference Optimization for Reasoning with Pseudo Feedback](https://arxiv.org/abs/2411.16345), ArXiv, 2024-11, ICLR'25 spotlight
 
 [Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109), ArXiv, 2024-11
 
