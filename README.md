@@ -12,9 +12,9 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 
 ## RLVR without External Supervision
 
-[Right question is already half the answer: Fully unsupervised LLM reasoning incentivization](https://arxiv.org/abs/2504.05812), ArXiv, 2024-04-08
+[Right question is already half the answer: Fully unsupervised LLM reasoning incentivization](https://arxiv.org/abs/2504.05812), ArXiv, 2025-04-08
 
-[Ttrl: Test-time reinforcement learning](https://arxiv.org/abs/2504.16084), ArXiv, 2024-04-22
+[Ttrl: Test-time reinforcement learning](https://arxiv.org/abs/2504.16084), ArXiv, 2025-04-22
 
 [SLOT: Sample-specific Language Model Optimization at Test-time](https://arxiv.org/abs/2505.12392), ArXiv, 2025-05-18
 
