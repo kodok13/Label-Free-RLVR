@@ -38,6 +38,8 @@ Warning: This repo is built for researchers interested in the recent "flurry" in
 
 [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453v1), ArXiv, 2025-05-29
 
+[Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.08745), ArXiv, 2025-06-02
+
 ## RLVR with Limited Data
 
 [Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613), ArXiv, 2025-02-26
