@@ -59,6 +59,8 @@ A curated collection of papers on Label-Free Reinforcement Learning with Verifia
 
 [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943), ArXiv, 2025-06-12
 
+[No Free Lunch: Rethinking Internal Feedback for LLM Reasoning](https://arxiv.org/abs/2506.17219), ArXiv, 2025-06-20
+
 ### RLVR with Limited Data
 
 [Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613), ArXiv, 2025-02-26
